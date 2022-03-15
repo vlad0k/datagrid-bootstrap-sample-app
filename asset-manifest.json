@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datagrid-bootstrap-sample-app/static/css/main.7ed30154.css",
+    "main.js": "/datagrid-bootstrap-sample-app/static/js/main.43516efa.js",
+    "index.html": "/datagrid-bootstrap-sample-app/index.html",
+    "main.7ed30154.css.map": "/datagrid-bootstrap-sample-app/static/css/main.7ed30154.css.map",
+    "main.43516efa.js.map": "/datagrid-bootstrap-sample-app/static/js/main.43516efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed30154.css",
+    "static/js/main.43516efa.js"
+  ]
+}
